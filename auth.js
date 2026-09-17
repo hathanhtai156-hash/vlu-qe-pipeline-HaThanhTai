@@ -8,7 +8,7 @@ function login(username, password) {
         return false;
     }
 
-    if (username === "admin" && password === "123") {
+    if (username === "admin" && password === "1234") {
         return true;
     }
 
