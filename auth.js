@@ -1,3 +1,4 @@
+// Update login feature on feature branch
 function login(username, password) {
     if (!username || !password) {
         return false;
